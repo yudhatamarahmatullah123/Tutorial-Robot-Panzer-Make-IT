@@ -1,0 +1,38 @@
+Sensor:
+Resistor 330 1/4w		4
+Resistor 560 1/4w		2
+Resistor Packed 10k 8pin	1
+Led SB 3mm 			14
+PhotoDiode 3mm			14
+Transistor 9013		2
+
+Sismin:
+Resistor 330 1/4w		2
+Resistor 1k  1/4w		1
+Resistor 3k3 1/4w		1
+Resistor 10k 1/4w		1
+VR biru kecil 10k 		1
+Capasitor 22pF  keramik	2
+Capasitor 100nF keramik	2
+Capasitor 220uF-470uF/10v	2
+Diode 1A			2
+Diode 3A			2
+IC7805				2
+Led biasa 3mm merah/hijau	3
+Pushbutton 2pin 		7
+Kristal 16MHz			1
+Soket IC 40pin			1
+Saklar				1
+Pin sisir 40pin female		1
+Pin sisir 40pin male		1
+LCD 16x2			1
+AtMega32			1
+
+Driver Motor:
+Resistor 560 1/4w		4
+Resistor 3K3-4k7 1/4w		4
+Diode 1A / 1n4148		8
+Transistor 9013		4
+IRF9540			4
+IRF540				4
+Motor DC 12V			2
